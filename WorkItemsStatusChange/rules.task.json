@@ -9,8 +9,8 @@
     },
     {
       "ifChildState": "New",
-      "notParentStates": [ "Active", "Resolved", "New" ],
-      "setParentStateTo": "Active",
+      "notParentStates": [ "Resolved", "New" ],
+      "setParentStateTo": "New",
       "allChildren": true
     },
     {
